@@ -1,0 +1,6 @@
+{
+  "name": "Limpopo Guest Manor",
+  "description": "Boutique guest accommodation and 100-seat conferencing venue in Polokwane CBD, Limpopo, South Africa. Unofficial concept preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
